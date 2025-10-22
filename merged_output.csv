@@ -1,0 +1,46 @@
+patient_id,name,age,gender,height,weight,bp,heart_rate,hemoglobin,random_blood_sugar,serum_creatinine,doctor_name,condition,medication
+P001,Anaya Patel,69,Female,177,103,160/67,78,15.9,179,2.07,Dr. Banerjee,Asthma,Amlodipine
+P001,Anaya Patel,69,Female,177,103,160/67,78,15.9,179,2.07,Dr. Banerjee,Hypertension,Salbutamol
+P001,Anaya Patel,69,Female,177,103,160/67,78,14.5,234,1.95,Dr. Banerjee,Asthma,Amlodipine
+P001,Anaya Patel,69,Female,177,103,160/67,78,14.5,234,1.95,Dr. Banerjee,Hypertension,Salbutamol
+P001,Anaya Patel,69,Female,177,103,160/67,78,12.5,87,1.13,Dr. Banerjee,Asthma,Amlodipine
+P001,Anaya Patel,69,Female,177,103,160/67,78,12.5,87,1.13,Dr. Banerjee,Hypertension,Salbutamol
+P002,Aditya Iyer,32,Female,156,42,136/94,64,11.3,201,1.58,Dr. Kapoor,Osteoarthritis,Salbutamol
+P002,Aditya Iyer,32,Female,156,42,136/94,64,11.3,201,1.58,Dr. Kapoor,Asthma,Metformin
+P002,Aditya Iyer,32,Female,156,42,136/94,64,16.9,154,0.7,Dr. Kapoor,Osteoarthritis,Salbutamol
+P002,Aditya Iyer,32,Female,156,42,136/94,64,16.9,154,0.7,Dr. Kapoor,Asthma,Metformin
+P003,Kavya Reddy,78,Male,166,90,125/99,94,16.5,199,0.9,Dr. Desai,Hypertension,Amlodipine
+P003,Kavya Reddy,78,Male,166,90,125/99,94,16.5,199,0.9,Dr. Desai,Diabetes Mellitus,Levothyroxine
+P003,Kavya Reddy,78,Male,166,90,125/99,94,10.6,77,1.71,Dr. Desai,Hypertension,Amlodipine
+P003,Kavya Reddy,78,Male,166,90,125/99,94,10.6,77,1.71,Dr. Desai,Diabetes Mellitus,Levothyroxine
+P004,Anaya Das,38,Male,188,46,93/61,50,8.3,89,0.55,Dr. Rao,Diabetes Mellitus,Amlodipine
+P004,Anaya Das,38,Male,188,46,93/61,50,14.4,126,1.36,Dr. Rao,Diabetes Mellitus,Amlodipine
+P005,Diya Mehta,41,Female,169,60,95/63,74,9.4,178,1.42,Dr. Banerjee,Hypothyroidism,Atorvastatin
+P005,Diya Mehta,41,Female,169,60,95/63,74,9.4,178,1.42,Dr. Desai,Hypothyroidism,Metformin
+P005,Diya Mehta,41,Female,169,60,95/63,74,10.0,239,1.52,Dr. Banerjee,Hypothyroidism,Atorvastatin
+P005,Diya Mehta,41,Female,169,60,95/63,74,10.0,239,1.52,Dr. Desai,Hypothyroidism,Metformin
+P006,Rahul Patel,20,Male,193,112,143/88,56,9.6,237,1.87,Dr. Kapoor,Hypothyroidism,Metformin
+P006,Rahul Patel,20,Male,193,112,143/88,56,9.6,237,1.87,Dr. Desai,Hypothyroidism,Paracetamol
+P006,Rahul Patel,20,Male,193,112,143/88,56,14.3,226,1.87,Dr. Kapoor,Hypothyroidism,Metformin
+P006,Rahul Patel,20,Male,193,112,143/88,56,14.3,226,1.87,Dr. Desai,Hypothyroidism,Paracetamol
+P006,Rahul Patel,20,Male,193,112,143/88,56,9.9,230,1.42,Dr. Kapoor,Hypothyroidism,Metformin
+P006,Rahul Patel,20,Male,193,112,143/88,56,9.9,230,1.42,Dr. Desai,Hypothyroidism,Paracetamol
+P007,Aarav Sharma,39,Male,171,78,152/77,58,9.2,134,2.04,Dr. Desai,Osteoarthritis,Amlodipine
+P007,Aarav Sharma,39,Male,171,78,152/77,58,9.2,134,2.04,Dr. Pillai,Osteoarthritis,Metformin
+P007,Aarav Sharma,39,Male,171,78,152/77,58,10.7,186,0.5,Dr. Desai,Osteoarthritis,Amlodipine
+P007,Aarav Sharma,39,Male,171,78,152/77,58,10.7,186,0.5,Dr. Pillai,Osteoarthritis,Metformin
+P008,Saanvi Iyer,70,Female,186,57,133/93,73,16.6,71,1.37,Dr. Pillai,Osteoarthritis,Metformin
+P008,Saanvi Iyer,70,Female,186,57,133/93,73,16.6,71,1.37,Dr. Menon,Dyslipidemia,Atorvastatin
+P009,Varun Mehta,19,Male,172,43,151/95,50,12.8,194,0.96,,,
+P010,Aarav Das,47,Female,160,99,103/90,93,9.7,109,1.45,,,
+P010,Aarav Das,47,Female,160,99,103/90,93,12.0,81,0.93,,,
+P010,Aarav Das,47,Female,160,99,103/90,93,10.5,195,1.71,,,
+P011,Saanvi Das,55,Female,159,53,137/74,57,10.8,76,1.54,Dr. Kapoor,Osteoarthritis,Paracetamol
+P011,Saanvi Das,55,Female,159,53,137/74,57,10.8,76,1.54,Dr. Pillai,Diabetes Mellitus,Paracetamol
+P012,Rahul Iyer,19,Other,191,48,151/99,73,12.1,75,1.09,Dr. Kapoor,Hypertension,Metformin
+P012,Rahul Iyer,19,Other,191,48,151/99,73,14.3,192,1.4,Dr. Kapoor,Hypertension,Metformin
+P013,Sahil Mehta,81,Female,195,92,142/83,60,17.9,113,1.64,,,
+P013,Sahil Mehta,81,Female,195,92,142/83,60,15.6,112,1.74,,,
+P014,Aditya Patel,77,Male,188,41,115/84,100,14.3,184,1.41,Dr. Rao,Hypothyroidism,Atorvastatin
+P014,Aditya Patel,77,Male,188,41,115/84,100,14.3,184,1.41,Dr. Kapoor,Hypertension,Metformin
+P015,Rohan Singh,38,Other,199,99,149/100,66,9.5,161,1.68,,,
